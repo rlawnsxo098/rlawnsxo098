@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 ### I am Kim Playdata Students 
 
 ### About me
-
-### Interest
-
+ - 성결대학교 미디어소프트웨어학과 졸업
+ - 잼코딩학원 java, python, c언어 강사 2021.06~ 2022.01
+ - 플레이데이터 자율주행을 위한 IoT·Bigdata·AI 기술융합 개발자 양성 교육 2022.01 ~ 
+  
 ### Latest Projects
 [Git_merge_practice](https://github.com/Frog000/merge_3.2_before_fast_forward)
 
