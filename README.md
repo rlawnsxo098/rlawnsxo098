@@ -21,9 +21,9 @@ Here are some ideas to get you started:
  - 플레이데이터 자율주행을 위한 IoT·Bigdata·AI 기술융합 개발자 양성 교육 2022.01 ~ 2022.07
  - 아이엠그루 2022.05 ~ ing
  - 비트나인 웹 개발 프로젝트 2022.05~ 2022.08 3Month (JavaScript)
- - KB국민은행 웹 개발 프로젝트 2022.08~2023.03 8Month (JavaScript)
+ - KB국민은행 웹 개발 프로젝트 2022.08~2023.03 8Month (JavaScript, Elasticsearch)
  - 펍플 유지보수 및 개발 2023.07~2023.09 3Month, (Python, Vue, JavaScript)
- - 
+ - KB국민지주 HIP 웹 개발 프로젝트 2024.05 ~ 2024.11 (JavaScript, OpenSearch(Elasticsearch))
 ### Latest Projects
 [Git_merge_practice](https://github.com/Frog000/merge_3.2_before_fast_forward)
 
